@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "eth-sig-util": "^3.0.1",
+    "ethereumjs-util": "^7.0.10",
+    "express": "^4.17.1"
+  }
+}
